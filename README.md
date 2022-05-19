@@ -1,0 +1,2 @@
+# UnityDitherPostEffect
+ディザー処理を書けるポストエフェクト
